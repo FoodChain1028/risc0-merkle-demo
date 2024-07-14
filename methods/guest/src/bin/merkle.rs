@@ -10,8 +10,8 @@ use risc0_zkvm::guest::env;
 /// output with something
 
 fn main() {
-
     
+
 
     // Read the input data for this application.
     let mut input_bytes = Vec::<u8>::new();
